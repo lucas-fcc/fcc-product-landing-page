@@ -40,4 +40,8 @@ body {
   .card {
     padding-top: 1rem;
   }
+
+  #video {
+    width: 85% !important;
+  }
 }
