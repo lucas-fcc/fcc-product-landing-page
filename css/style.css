@@ -30,6 +30,14 @@ body {
   background: rgba(0, 0, 0, 0.5);
 }
 
+#features .d-flex {
+  display: flex !important;
+}
+
+#newsletter hr {
+  border-color: #f8f9fa;
+}
+
 @media (max-width: 575.98px) {
   #start h1 {
     font-size: 3.5rem !important;
@@ -37,7 +45,7 @@ body {
 }
 
 @media (max-width: 991.98px) {
-  .card {
+  #features .card {
     padding-top: 1rem;
   }
 
