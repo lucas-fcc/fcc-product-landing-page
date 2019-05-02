@@ -12,6 +12,10 @@ body {
   padding-right: 1.4rem;
 }
 
+.navbar .active {
+  font-weight: bold;
+}
+
 #start {
   position: relative;
   background: url("../img/trombone-background.jpg");
